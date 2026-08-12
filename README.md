@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adkjyoti55@gmail.com**
 
-- ⚡ Fun fact **I can make people laugh and I love to be happy all the time.**
+- ⚡ Fun fact **I can make people laugh and I try to be happy almost all the time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
