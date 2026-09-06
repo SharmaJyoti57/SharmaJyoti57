@@ -5,7 +5,7 @@
 - 💼 2 years of professional experience building and shipping Flutter apps to the App Store and Play Store
 - 🤖 Exploring how to bring AI/ML (NLP, speech, on-device inference) into mobile applications
 - 🔭 Check out my latest project: [Resume ↔ JD Matcher](https://github.com/AdhikariJyoti/resume-matcher) — an AI-powered tool that evaluates resume-job fit
-- 📫 Reach me at adkjyoti55@gmail.com or [LinkedIn](linkedin.com/in/adhikarijyoti)
+- 📫 Reach me at adkjyoti55@gmail.com or [LinkedIn](https://www.linkedin.com/in/adhikarijyoti/)
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
