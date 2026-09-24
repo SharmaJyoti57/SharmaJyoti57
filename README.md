@@ -73,7 +73,7 @@ Uncomment this block once you have actually started Matcher v2.
     <td valign="top">10M users · 4.5★ on the App Store</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://apps.apple.com/us/app/rojgari/id1493964641"> --><b>Rojgari</b></td>
+    <td valign="top"><a href="https://apps.apple.com/us/app/rojgari/id1493964641"><b>Rojgari</b></td>
     <td valign="top">Flutter job marketplace app, from scoping to Play Store release; Sentry crash monitoring, Firebase push notifications, deep linking, and localization</td>
     <td valign="top">1.3M+ downloads</td>
   </tr>
