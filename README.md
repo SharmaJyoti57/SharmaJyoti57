@@ -69,7 +69,7 @@ Uncomment this block once you have actually started Matcher v2.
   </tr>
   <tr>
     <td valign="top"><a href="https://apps.apple.com/us/app/hamro-patro-nepali-calendar/id401074157"><b>Hamro Patro</b></a></td>
-    <td valign="top">BS-AD date conversion, forex rates, and festival/event tracking; Hamro Health telehealth features (consultations, e-prescriptions, live audio/video); a GPS school-bus tracker built on gRPC streaming</td>
+    <td valign="top">Hamro Health telehealth features (consultations, e-prescriptions, live audio/video); a GPS school-bus tracker built on gRPC streaming</td>
     <td valign="top">10M users · 4.5★ on the App Store</td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ Uncomment this block once you have actually started Matcher v2.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,cpp,mysql,firebase,androidstudio,git,github" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,mysql,firebase,androidstudio,git,github" alt="Tech stack icons"/>
 </p>
 
 <p>
