@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jyoti Sharma</h1>
-<h3 align="center">Flutter Developer | MS Computer Science Candidate | Building AI-integrated mobile apps</h3>
+### Hi, I'm Jyoti
 
-- 🎓 Currently completing my MS in Computer Science at Fitchburg State University (expected Dec 2026)
-- 💼 2 years of professional experience building and shipping Flutter apps to the App Store and Play Store
-- 🤖 Exploring how to bring AI/ML (NLP, speech, on-device inference) into mobile applications
-- 🔭 Check out my latest project: [Resume ↔ JD Matcher](https://github.com/AdhikariJyoti/resume-matcher) — an AI-powered tool that evaluates resume-job fit
-- 📫 Reach me at adkjyoti55@gmail.com or [LinkedIn](https://www.linkedin.com/in/sharmajyoti57/)
+Software engineer building LLM-powered apps. 2+ years shipping Flutter and Android apps to the App Store and Google Play (Hamro Patro, Rojgari, Merojob). M.S. in Computer Science at Fitchburg State University (Dec 2026).
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+**Featured**
+- [Resume ↔ JD Matcher](https://github.com/SharmaJyoti57/resume-matcher): Flutter + OpenAI app that scores resume-to-job fit, with prompts designed to counter AI over-flattery
+- Telecom Churn Prediction: Logistic Regression vs Random Forest on the IBM Telco dataset (0.841 ROC-AUC) [add repo link]
+
+**Working on**
+- Matcher v2: retrieval, evaluation suite, live deployment
+
+**Stack**
+Python · Dart/Flutter · Kotlin/Java · OpenAI API · scikit-learn · gRPC · Firebase · Sentry · CI/CD
+
+**Contact**
+jyoti.sharma.dev57@gmail.com · [LinkedIn](https://www.linkedin.com/in/sharmajyoti57/)
+Available January 2027
